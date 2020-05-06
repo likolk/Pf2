@@ -68,8 +68,16 @@ public class BitSequence {
      * e.g., BitSequence.fromString("110") would be equivalent to
      *       new BitSequence(true, new BitSequence(true, new BitSequence(false))).
      */
-    public static BitSequence fromString(final String s) {
-        s.charAt
+     public static BitSequence fromString(final String s) 
+     {
+        s.charAt(int).BitSequence = BitSequence.fromString;
+        BitSequence.fromString = BitSequence.equals(true(BitSequence.equals(true(BitSequence.equals(false);
+        
+        
+        
+        
+            
+        
         // Hint: use s.charAt(int) and s.substring(int)
         return null;
     }
