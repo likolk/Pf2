@@ -72,14 +72,18 @@ public class BitSequence {
      {
         s.charAt(int).BitSequence = BitSequence.fromString;
         BitSequence.fromString = BitSequence.equals(true(BitSequence.equals(true(BitSequence.equals(false);
+         if ( BitSequence.equals(true)
+         { return int 
+            }
+             else
+             return();
         
         
         
         
             
         
-        // Hint: use s.charAt(int) and s.substring(int)
-        return null;
+       
     }
     
 }
