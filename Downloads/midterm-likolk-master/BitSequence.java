@@ -53,12 +53,15 @@ public class BitSequence {
         if (BitSequence.equals(true)) {
             if (BitSequence.equals(true)) {
                 if (BitSequence.equals(false)) {
+                    if (b.countOnes.equals(true)) 
+                    {
+                    return 2;
+                }
+                   
        
         
-        return 2;
-    } else {
-        return;
-    }
+     
+
     
     /**
      * Convert the given String into the corresponding BitSequence,
@@ -66,7 +69,7 @@ public class BitSequence {
      *       new BitSequence(true, new BitSequence(true, new BitSequence(false))).
      */
     public static BitSequence fromString(final String s) {
-        // TODO implement with recursion
+        s.charAt
         // Hint: use s.charAt(int) and s.substring(int)
         return null;
     }
